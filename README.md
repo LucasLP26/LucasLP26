@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasLP26
-- 👀 I’m interested in programming using C++ Python, and I am a Website developer(HTML, CSS, JAVASCRIPT)
+- 👀 I’m interested in programming using C++ Python, I am a Website developer(HTML, CSS, JAVASCRIPT) and I am a technician in the @GearManiacsJr team.
 - 🌱 I’m currently learning cyber security and hacking.
 - 💞️ I’m looking to collaborate on building any projects.
 - 📫 Reach me on Instagram:  https://instagram.com/lucas._p26?igshid=OGQ5ZDc2ODk2ZA==  
